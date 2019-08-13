@@ -12,135 +12,135 @@ each individual company profile for details._
 ## Companies
 
 Name | Website | Region | Technologies
------------- | ------- | -------
-[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
-[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
-[45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide
-[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
-[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
-[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
-[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
-[AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
-[Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
-[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide
-[Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide
-[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
-[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
-[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States
-[apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
-[appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
-[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
-[Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide
-[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada
-[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide
-[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
-[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
-[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
-[Azoolla](/company-profiles/azoolla.md) ⚠️️ | http://www.azoolla.com/ | Europe
-[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
-[Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-[BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ |
-[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
-[Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ |
-[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
-[BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA
-[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
-[Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
-[Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
-[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
-[Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
-[Bizink](/company-profiles/bizink.md) ⚠️️ | http://bizinkonline.com |
-[Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
-[Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide
-[Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
-[Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ |
-[Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
-[Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
-[Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org |
-[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
-[BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-[Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
-[Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) ⚠️️ | https://www.buysellads.com/ |
-[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
-[Carbon Black](/company-profiles/carbon-black.md) ⚠️️ | https://www.carbonblack.com/ | USA, Offices in Boston, MA
-[Cards Against Humanity](/company-profiles/cards-against-humanity.md) ⚠️️ | https://cardsagainsthumanity.com/ |
-[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
-[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-[CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/ |
-[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
-[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
-[charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY
-[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
-[ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
-[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
-[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
-[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
-[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
-[Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
-[Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide
-[Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide
-[CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
-[Codeship](/company-profiles/codeship.md) ⚠️️ | https://codeship.com/ |
-[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
-[Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
-[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
-[Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ |
-[Comet](/company-profiles/comet.md) | https://www.comet.co/ | France, Europe
-[Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
-[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
-[Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
-[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
-[Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA
-[Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ |
-[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
-[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
-[Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA
-[CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ |
-[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Crossover](/company-profiles/crossover.md) ⚠️️ | https://www.crossover.com | Worldwide
-[Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
-[CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
-[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
-[Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
-[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
-[Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
-[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
-[DataStax](/company-profiles/datastax.md) ⚠️️ | http://www.datastax.com/ |
-[Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ |
-[DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com |
-[Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com |
-[Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
-[Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-[Docker](/company-profiles/docker.md) ⚠️️ | https://www.docker.com |
-[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
-[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
-[Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
-[DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
-[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
-[Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ |
+------------ | ------- | ------- | -------
+[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | 
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | 
+[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | 
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | 
+[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA | 
+[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide | 
+[45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide | 
+[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany | 
+[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe | 
+[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide | 
+[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA | 
+[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide | 
+[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America | 
+[AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe | 
+[Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide | 
+[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide | 
+[Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide | 
+[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA | 
+[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT) | 
+[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America | 
+[Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States | 
+[apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA | 
+[appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ | | 
+[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel | 
+[Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide | 
+[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada | 
+[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2 | 
+[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide | 
+[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA | 
+[Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide | 
+[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide | 
+[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide | 
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide | 
+[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide | 
+[Azoolla](/company-profiles/azoolla.md) ⚠️️ | http://www.azoolla.com/ | Europe | 
+[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide | 
+[Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide | 
+[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide | 
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide | 
+[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide | 
+[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide | 
+[BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ | | 
+[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide | 
+[Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ | | 
+[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | | 
+[BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA | 
+[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide | 
+[Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA | 
+[Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA | 
+[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide | 
+[Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide | 
+[Bizink](/company-profiles/bizink.md) ⚠️️ | http://bizinkonline.com | | 
+[Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ | | 
+[Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide | 
+[Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide | 
+[Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ | | 
+[Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ | | 
+[Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil | 
+[Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org | | 
+[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide | 
+[BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe | 
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | 
+[Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide | 
+[Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide | 
+[BuySellAds](/company-profiles/buysellads.md) ⚠️️ | https://www.buysellads.com/ | | 
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | 
+[Carbon Black](/company-profiles/carbon-black.md) ⚠️️ | https://www.carbonblack.com/ | USA, Offices in Boston, MA | 
+[Cards Against Humanity](/company-profiles/cards-against-humanity.md) ⚠️️ | https://cardsagainsthumanity.com/ | | 
+[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide | 
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide | 
+[CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/  | |
+[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe | 
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US | 
+[charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY | 
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK | 
+[ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil | 
+[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | | 
+[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US | 
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide | 
+[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide | 
+[Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide | 
+[Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide | 
+[Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide | 
+[CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide | 
+[Codeship](/company-profiles/codeship.md) ⚠️️ | https://codeship.com/ | | 
+[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide | 
+[Cofense](/company-profiles/cofense.md) | https://cofense.com | USA | 
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide | 
+[Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ | | 
+[Comet](/company-profiles/comet.md) | https://www.comet.co/ | France, Europe | 
+[Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ | | 
+[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide |  | 
+[Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ | | 
+[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide | 
+[Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA | 
+[Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ | | 
+[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide | 
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide | 
+[Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA | 
+[CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ | | 
+[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast | 
+[Crossover](/company-profiles/crossover.md) ⚠️️ | https://www.crossover.com | Worldwide | 
+[Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide | 
+[CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA | 
+[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide | 
+[Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe | 
+[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide | 
+[Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide | 
+[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide | 
+[DataStax](/company-profiles/datastax.md) ⚠️️ | http://www.datastax.com/ | | 
+[Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ | | 
+[DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com | | 
+[Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com | | 
+[Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide | 
+[Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas | 
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide | 
+[Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide | 
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide | 
+[Docker](/company-profiles/docker.md) ⚠️️ | https://www.docker.com | | 
+[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide | 
+[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide | 
+[Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide | 
+[DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide | 
+[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada | 
+[Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide | 
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide | 
+[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide | 
+[EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ | | 
 [Enjoei](/company-profiles/enjoei.md) ⚠️️ | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
