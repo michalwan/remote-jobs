@@ -13,7 +13,7 @@ each individual company profile for details._
 
 Name | Website | Region | Technologies
 ------------ | ------- | ------- | -------
-[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | 
+[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | Node.js, React, WebRTC, Pug, Stylus 
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | 
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | 
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | 
