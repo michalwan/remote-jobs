@@ -11,7 +11,7 @@ each individual company profile for details._
 
 ## Companies
 
-Name | Website | Region
+Name | Website | Region | Technologies
 ------------ | ------- | -------
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
