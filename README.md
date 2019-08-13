@@ -14,44 +14,44 @@ each individual company profile for details._
 Name | Website | Region | Technologies
 ------------ | ------- | ------- | -------
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | Node.js, React, WebRTC, Pug, Stylus 
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | 
-[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | 
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | 
-[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA | 
-[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide | 
-[45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide | 
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress,PHP,Sass,Git,Vagrant,Nginx,Memcache
+[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python, Django,Django templates, React,AWS, ansible 
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
+[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA | Ruby, Python, HTML, CSS, JavaScript
+[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide | Go, React, TypeScript, Swift, and of course Slack.
+[45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide | WordPress and Shopify 
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany | 
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe | 
-[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide | 
-[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA | 
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide | 
-[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America | 
-[AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe | 
-[Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide | 
-[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide | 
-[Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide | 
-[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA | 
-[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT) | 
-[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America | 
+[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe | Nodejs, Ruby, Golang, Elixir, Cassandra, Postgres, Elastic, Influx, Redis, Rabbit 
+[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide | Drupal,PHP,Git,HTML,CSS,JavaScript,Ruby,Go,Python,AWS,Ember,React,Java
+[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA | Ruby,JavaScript,Golang,HTML,CSS
+[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide | Linux, perl, python, mysql, elasticsearch, gearman, rabbitMQ, nginx, apache, memcached, AWS, terraform, chef.
+[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America | JavaScript, using ES7, React, Node.JS Design: Sketch, InVision, Marvel
+[AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe | Golang,Python,Coffeescript,PostgreSQL,Redis,React 
+[Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide | Ruby on Rails, React, jQuery
+[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide | Java (Scala) microservices,MySQL,Kubernetes,Docker
+[Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide | Python, Ruby, .NET, MSSQL
+[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA | Ruby and RoR, Javascript, AngularJS, Coffeescript, iOS, Android, MySQL, HTML/CSS, Java and Spring
+[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT) | Ruby on Rails,Javascript (Ember, React),PostgreSQL,Git
+[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America | Drupal,PHP,Git,HTML,CSS,JavaScript,ReactJS,Symfony
 [Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States | 
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA | 
 [appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ | | 
-[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel | 
-[Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide | 
-[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada | 
-[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2 | 
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide | 
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA | 
+[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel | LAMP 
+[Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux 
+[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada | C++,Python,Objective C,PHP,JavaScript,ActionScript,Ruby,Java,C#,Git 
+[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2 | PHP, Python, JavaScript, git, MySQL, HTML, CSS, Django, Symfony, Ansible, Docker, Jenkins, Nginx, Azure, AWS, Ubuntu, CentOS, RedHat 
+[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide | .NET, C# 
+[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA | Node.js, Python, Scala, Apache Airflow, Apache Spark, Apache Kafka, Kinesis, Redshift, PostgreSQL, MongoDB, React, GraphQL, Docker, Apache Mesos, DC/OS, Prometheus, Terraform
 [Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide | 
-[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide | 
-[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide | 
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide | 
-[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide | 
+[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide | React (and React Native),Microservices backends with Node.js and AWS,Serverless with AWS Lambda,Docker,ES6/7 Javascript,Redux,Mongo, Redis and others dbs
+[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide | JavaScript,Python,Ruby,Puppet, Chef, Ansible,Docker,PostgreSQL,Node.js,JSON Web Tokens,OAuth, OpenID Connect
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide | WordPress, JavaScript (Node/React/Redux), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
+[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide | Drupal,WordPress,PHP,Git,HTML,CSS,JavaScript,Ruby
 [Azoolla](/company-profiles/azoolla.md) ⚠️️ | http://www.azoolla.com/ | Europe | 
-[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide | 
+[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide | balenaCloud, balenaFin, balenaOS, balenaEtcher, openBalena,IoT devices,Docker,Kubernetes,Linux,JavaScript,TypeScript,Node.js,PostgreSQL,React,Electron,AWS,Yocto,Rust,Prometheus,Jenkins,Raspberry Pi,Go
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide | 
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide | 
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide | 
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide | RoR, Ember.js, APIs
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide | 
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide | 
 [BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ | | 
