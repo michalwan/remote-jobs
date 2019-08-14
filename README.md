@@ -172,109 +172,109 @@ Name | Website | Region | Technologies
 [Giant Swarm](/company-profiles/giant-swarm.md) | https://giantswarm.io | Europe
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 [Gitbook](/company-profiles/gitbook.md) ⚠️️ | https://www.gitbook.com/ |
-[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
-[GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide
-[GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
+[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide | 
+[GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide | 
+[GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide | 
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
-[GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
+[GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide | 
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
 [Graylog](/company-profiles/graylog.md) ⚠️️ | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
-[Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide
-[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide
-[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
+[Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide | 
+[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide | 
+[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide | 
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Haiku Learning](/company-profiles/haiku-learning.md) ⚠️️ | http://www.haikulearning.com/ |
-[Hanno](/company-profiles/hanno.md) ⚠️️ | https://hanno.co/ | Worldwide
+[Hanno](/company-profiles/hanno.md) ⚠️️ | https://hanno.co/ | Worldwide | 
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
-[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide
+[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide | 
 [Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
-[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide | 
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | US, CA, UK, DE, FR, NL, AU, ...
-[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
+[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide | 
 [Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
-[Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
+[Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide | 
 [Help Scout](/company-profiles/help-scout.md) ⚠️️ | https://www.helpscout.net/ |
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 [Honeybadger](/company-profiles/honeybadger.md) ⚠️️ | https://www.honeybadger.io/ |
-[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
-[Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
+[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide | RoR, Ansible, AWS/Azure, Git, Postgres, Redis, Github, Slack, and Trello
+[Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide | Python, AngularJS, PostgreSQL and HBase.
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
-[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
-[Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide | 
+[Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide | WordPress, PHP, Javascript, server technologies
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
-[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
+[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide | Python, Javascript, some Angular, so much more!
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
-[Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
+[Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide | WordPress,PHP,Nodejs,Vagrant,Git
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
 [InfluxData](/company-profiles/influxdata.md) ⚠️️ | https://influxdata.com | US
 [Inpsyde](/company-profiles/inpsyde.md) ⚠️️ | http://inpsyde.com/en/ |
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 [Intellum](/company-profiles/intellum.md) ⚠️️ | http://www.intellum.com |
-[Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
-[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
+[Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide | 
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide | Ruby, Ruby on Rails, Ember.js, MongoDB, MySQL, Redis, Pusher, nginx, Sinatra, Sidekiq, and lots more
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
 [Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
-[InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
-[IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
+[InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide | Go, Node, JavaScript, TypeScript, React, Docker, Kubernetes
+[IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide | Haskell,Scala,Rust
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ |
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
-[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide | Perl, Erlang, Python, node, CouchDB, RabbitMQ, Kyoto Tycoon, Puppet, Vagrant, Docker 
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
-[Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
+[Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide | C#, ASP.NET MVC, ASP.NET Core, Javascript, Angular, Typescript, Ionic, Python
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) ⚠️️ | https://www.khanacademy.org/ |
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
-[Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
+[Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide | Javascript, React, jQuery, Backbone, Git, Distributed systems, PostgresSQL, MySQL, Key-Value Stores, R, Ruby, Python
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
-[Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
-[Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
-[Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
+[Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide | NodeJS and JS. Not sure about the db's
+[Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide | 
+[Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide | JavaScript, Typescript, React, PHP, Rust, Go.
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | US and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
-[Lightbend](/company-profiles/lightbend.md) | http://www.lightbend.com/ | Worldwide
+[Lightbend](/company-profiles/lightbend.md) | http://www.lightbend.com/ | Worldwide | Scala,Java
 [Linaro](/company-profiles/linaro.md) ⚠️ | https://www.linaro.org/ |
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
 [Linux Foundation](/company-profiles/linux-foundation.md) ⚠️ | http://www.linuxfoundation.org/ |
-[Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
+[Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide | Ruby on Rails, .NET, AWS
 [LivingSocial](/company-profiles/livingsocial.md) ⚠️️ | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
-[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
+[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide | RoR, Go, PostgreSQL, Redis/resque, ElasticSearch, Ember.js, Codeship+Heroku, Github
+[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide | Drupal,PHP,HTML,Sass,CSS,JavaScript,Ruby,Phone Gap,Titanium
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
-[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
+[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide | Mapbox GL JS for web, iOS, Android, React Native, Unity, Qt.
 [Marketade](/company-profiles/marketade.md) ⚠️️ | http://www.marketade.com |
-[MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
+[MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide | Ruby, Rails, Sinatra, Node.js, Angular, React, Vue.js
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
 [Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
 [MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
 [Mixcloud](/company-profiles/mixcloud.md) ⚠️️ | https://www.mixcloud.com/ |
-[Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
-[Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
+[Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide | Node, Express, Backbone, React, Redis, Mongo, Elasticsearch, Docker, AWS.
+[Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide | 
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
 [Mozilla](/company-profiles/mozilla.md) ⚠️️ | https://www.mozilla.org/ |
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
-[Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
+[Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide | Python,Django,Celery,Redis,Elasticsearch,Nginx,Gunicorn,Varnish,Ansible,Sass,Backbone, ES6, Webpack
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
 [MySQL](/company-profiles/mysql.md) ⚠️️ | https://www.mysql.com/ |
 [Netguru](/company-profiles/netguru.md) ⚠️️ | https://www.netguru.co |
-[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
+[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide | .NET Framework, Winforms
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new-context.md) | https://www.newcontext.com/ | US
 [NEXT](/company-profiles/next.md) | https://www.nexttrucking.com/ | US
 [Next Big Sound](/company-profiles/next-big-sound.md) ⚠️️ | https://www.nextbigsound.com/ |
-[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
+[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide | Node.js,JavaScript,Git,Docker,Kubernetes,Cloud Foundry,AWS,C++
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) ⚠️️ | https://www.npmjs.com/ |
@@ -284,46 +284,46 @@ Name | Website | Region | Technologies
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
-[OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
+[OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide | Ruby on Rails, React, Postgres, Redis, Sinatra, JavaScript, AWS, Heroku.
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
-[OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
-[Oracle](/company-profiles/oracle.md) ⚠️️ | http://www.oracle.com/ | Worldwide
+[OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide | Soldity, javascript, typescript, node.js
+[Oracle](/company-profiles/oracle.md) ⚠️️ | http://www.oracle.com/ | Worldwide | 
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | US
-[Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
+[Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide | Mobile (IOS, Android), Backend & Web engineers, Data Analyst, Marketing and Design
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | US
-[Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide
+[Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide | Java, Javascript, Node.js, Agile, Git, Angular.js, mySQL, Python, Java Spring MV, Spark, AWS.
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | US
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) ⚠️️ | http://www.parsely.com/ |
 [Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
 [Pathable](/company-profiles/pathable.md) ⚠️️ | https://pathable.com/ |
-[Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
+[Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide | MongoDB, Node.js, Software Architecture, Information Architecture, AWS/EC2/ELB/S3/DynamoDB, TypeScript.
 [Paylocity](/company-profiles/paylocity.md) ⚠️️ | http://www.paylocity.com/ |
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
 [Pelagicore](/company-profiles/pelagicore.md) ⚠️️ | http://www.pelagicore.com |
 [PeopleDoc](/company-profiles/peopledoc.md) ⚠️️ | http://www.people-doc.com |
-[Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
+[Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide | 
 [PicksCo](/company-profiles/picksco.md) | http://interchangehq.com/ | UTC-7 to UTC+1
-[Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
-[Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
+[Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide | Python,Go Lang,Angular.js,LXC/Zookeeper/Kafka/Riemann/Ceph/Influxdb
+[Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide |  C++ to Javascript, Ruby on Rails to React Native, MySQL to Mongo, and lots in-between
 [Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | http://www.precisionnutrition.com/ |
 [PreviousNext](/company-profiles/previousnext.md) ⚠️️ | https://www.previousnext.com.au/ |
-[Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
-[Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
+[Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide | Javascript,React,PHP/Symfony,Bash,AWS,PostgreSQL,Varnish/Apache/Nginx
+[Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide | Puppet, Ruby, Clojure, and whole lot more.
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
-[Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
+[Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide | Python, OpenStack
 [Rainforest QA](/company-profiles/rainforest-qa.md) ⚠️️ | https://www.rainforestqa.com/jobs/ |
-[Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
+[Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide | Front-end: JavaScript, React, Next.js, ESLint,Back-end: GraphQL, MongoDB, Meteor,Dev Ops: Docker, CircleCI,Project tools: GitHub, ZenHub, Jira,Design tools: Sketch, Zeplin,Work tools: Slack, Zoom, Google Team Drive, Dashlane
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
-[RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
+[RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide | React, Meteor, NodeJS, MongoDB.
 [RebelMouse](/company-profiles/rebelmouse.md) ⚠️️ | https://www.rebelmouse.com/ |
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
-[ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
+[ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide | Javascript, CSS, MySQL, HTML, Python, Coffee, and Magic
 [Recurly](/company-profiles/recurly.md) ⚠️️ | https://recurly.com/ |
-[Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
+[Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide | C, C++, Java, Python, Ruby, ...
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
@@ -333,95 +333,95 @@ Name | Website | Region | Technologies
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
 [Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
 [Salesforce](/company-profiles/salesforce.md) ⚠️️ | https://www.salesforce.com/ |
-[Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
+[Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide | WordPress,PHP,Sass,Git,Javascript
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | http://sawhorsemedia.com |
-[Scopic Software](/company-profiles/scopic-software.md) | http://scopicsoftware.com/ | Worldwide
+[Scopic Software](/company-profiles/scopic-software.md) | http://scopicsoftware.com/ | Worldwide | Yii, Django, Symfony, Spring, Java and Node.js,Bootstrap and LESS,Xamarin, AdobeAIR, PhoneGAP and Qt,OpenGL, OpenCV and DirectD3,SQL, Hadoop, MongoDB, Dynamo ,
 [Scrapinghub](/company-profiles/scrapinghub.md) ⚠️️ | http://scrapinghub.com/ |
 [SecurityScorecard](/company-profiles/securityscorecard.md) ⚠️️ | https://securityscorecard.com/ |
 [SEED](/company-profiles/seed.md) ⚠️️ | https://seed.co/ |
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | United States and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
-[ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
-[Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
+[ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide | WordPress,PHP,VueJS,Git,Docker,Nginx and Apache,MariaDB and MySQL
+[Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide | Ruby / Rails, Go, JavaScript, React, Node
 [SignEasy](/company-profiles/signeasy.md) ⚠️️ | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
-[SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
-[Six to Start](/company-profiles/six-to-start.md) | http://sixtostart.com | Worldwide
-[Skillcrush](/company-profiles/skillcrush.md) | http://skillcrush.com | Worldwide
+[SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide | Java,Meteor,JS,HTML,CSS,JavaScript,Node.JS
+[Six to Start](/company-profiles/six-to-start.md) | http://sixtostart.com | Worldwide | JavaScript, Python, Swift, Java
+[Skillcrush](/company-profiles/skillcrush.md) | http://skillcrush.com | Worldwide | Wordpress, Ruby, Rails, JavaScript, jQuery, HTML, CSS
 [Skillshare](/company-profiles/skillshare.md) ⚠️️ | https://www.skillshare.com/teach |
 [SmugMug](/company-profiles/smugmug.md) ⚠️️ | https://www.smugmug.com/ |
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
 [Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
-[Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
+[Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide | Javascript, React, Angular, Vue.js, Node, Python, Java
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | Republic of Korea, Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
-[Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide
-[Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
-[Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
+[Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide | 
+[Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide | React, Redux, Saga,HTML, SCSS,Webpack
+[Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide  | | 
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
 [Stitch Fix](/company-profiles/stitch-fix.md) ⚠️️ | https://www.stitchfix.com |
-[Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
+[Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide | Ruby, CoffeeScript, Backbone.js, Sinatra, PostgreSQL, hadoop, redis, AWS
 [Strongloop](/company-profiles/strongloop.md) ⚠️️ | https://strongloop.com/ |
-[StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
+[StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide | Slack Google Docs Google Hangouts, Ruby-on-Rails MySQL Javascript/jQuery Zoho Stripe SendWithUs
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
-[SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide
+[SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide | 
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
 [SweetRush](/company-profiles/sweetrush.md) ⚠️️ | http://www.sweetrush.com |
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
-[Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
+[Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide | 
 [Taplytics](/company-profiles/taplytics.md) ⚠️️ | https://taplytics.com/ |
-[Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
+[Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide | React, Postgres, Redis, JavaScript, CSS
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | United States
 [teamed.](/company-profiles/teamed.md) ⚠️️ | http://www.teamed.io/ |
 [TeamSnap](/company-profiles/teamsnap.md) ⚠️️ | https://www.teamsnap.com |
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
 [Teleport](/company-profiles/teleport.md) ⚠️️ | http://teleport.org/ |
 [Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
-[Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
+[Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide | Angular, Bootstrap, Node.js, Spring, Akka and J2EE
 [Tenable](/company-profiles/tenable.md) ⚠️️ | http://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) ⚠️️ | http://testdouble.com/ |
-[The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
+[The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide | React, Inferno, iOS, Android
 [The Publisher Desk](/company-profiles/the-publisher-desk.md) ⚠️️ | http://www.publisherdesk.com |
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | http://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | http://www.scalefactory.com/ | UK
-[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide | 
 [Theorem](/company-profiles/theorem.md) | https://theorem.co/ | UTC-10 to UTC+2
-[Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
+[Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide | React,Angular,Vue.js,Python
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | United States
-[TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
+[TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide | React.js, Django, Postgres, Docker, Fabric.
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
-[toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
-[Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
+[toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide | Sass, CoffeeScript, jQuery, Underscore, Bower
+[Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide | RoR, JavaScript, CoffeeScript, Sass, Haml, Slim, Underscore.js, Backbone.js, React.js, Google Closure, Cucumber, Waiter, PhantomJS
 [Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
-[Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
+[Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide | JavaScript,Node.js,CoffeeScript,Ubuntu,AWS
 [Travis CI](/company-profiles/travis-ci.md) ⚠️️ | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 [Trello](/company-profiles/trello.md) ⚠️️ | https://trello.com/ |
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | United States
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | United States
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
-[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
+[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide | React/GraphQL, Ruby on Rails, Go, Scala, Python, Angular, Java and Objective-C
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md) ⚠️️ | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
-[Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
-[Varnish Software](/company-profiles/varnish-software.md) ⚠️️ | https://www.varnish-software.com/about-us | Worldwide
+[Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone) | 
+[Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide | PHP, Javascript, AngularJS, Laravel, Nginx, MySQL, Ansible, Docker, Python, RabbitMQ.
+[Varnish Software](/company-profiles/varnish-software.md) ⚠️️ | https://www.varnish-software.com/about-us | Worldwide | 
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) ⚠️️ | https://webdevstudios.com/ |
-[WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
-[Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
+[WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide | HTML, CSS, JavaScript, WordPress, Magento, Joomla
+[Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide | WordPress,PHP,Sass,React,Git,Vagrant/Docker,Nginx,Redis/Memcache,Solr
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
-[wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
+[wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide |  django, vue, elixir
 [Whitecap SEO](/company-profiles/whitecap-seo.md) ⚠️️ | http://www.whitecapseo.com/ |
-[Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
+[Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide | 
 [WikiHow](/company-profiles/wikihow.md) ⚠️️ | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
-[Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
-[Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
-[Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
+[Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide | PHP, Varnish, Nginx, Hadoop, R, Java, and Bayesian Analysis, MariaDB, MySQL, NoSQL, Puppet
+[Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide | Ruby on Rails, .NET MVC, RabbitMQ, MySQL, ElasticSearch
+[Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide | 
 [Wombat Security Technologies](/company-profiles/wombat-security.md) ⚠️️ | https://www.wombatsecurity.com/ | USA
 [X-Team](/company-profiles/x-team.md) ⚠️️ | http://x-team.com/ |
-[Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
+[Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide | 
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
-[Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
+[Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide | Python,Django,Celery,Node.js, Javascript, React,Amazon Web Services,AWS Lambda,nginx,Gunicorn,Ansible,Packer,MySQL,Redis,Memcached,ZooKeeper,RabbitMQ,Kafka 
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
