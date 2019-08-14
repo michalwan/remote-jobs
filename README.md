@@ -52,37 +52,37 @@ Name | Website | Region | Technologies
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide | 
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide | 
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide | RoR, Ember.js, APIs
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide | 
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide | 
+[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide | PHP, jQuery
+[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide | Ruby, Rails, CoffeeScript, Backbone.js, Memcached, MySQL, S3
 [BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ | | 
-[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide | 
+[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide | Perl, Mason, MySQL/PostgreSQL/Oracle, Linux based OS, JavaScript/jQuery, CSS
 [Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ | | 
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | | 
 [BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA | 
-[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide | 
+[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide | Python/Django,Postgres,Ember.js
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA | 
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA | 
-[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide | 
-[Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide | 
+[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide | Wordpress, Joomla, Drupal, ruby, golang and nodejs, Git, Kubernetes
+[Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide | JavaScript, HTML, CSS, etc.
 [Bizink](/company-profiles/bizink.md) ⚠️️ | http://bizinkonline.com | | 
 [Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ | | 
-[Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide | 
-[Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide | 
+[Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide | Ruby on Rails, ReactJS, Elixir, Phoenix
+[Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide | Python,Go,Node.js,React,Kubernetes,Docker,GitHub
 [Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ | | 
 [Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ | | 
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil | 
 [Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org | | 
-[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide | 
+[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide | Python,SQLAlchemy,Pandas,Django,AWS (RDS, S3, Batch, Lambdas, Zappa, DynamoDB),Docker,GitHub,Jenkins,Vue.js, Knockout
 [BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe | 
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | 
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | Redshift, Hadoop, MongoDB JavaScript, PHP, Underscore, Backbone.
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide | 
 [Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide | 
 [BuySellAds](/company-profiles/buysellads.md) ⚠️️ | https://www.buysellads.com/ | | 
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | 
 [Carbon Black](/company-profiles/carbon-black.md) ⚠️️ | https://www.carbonblack.com/ | USA, Offices in Boston, MA | 
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) ⚠️️ | https://cardsagainsthumanity.com/ | | 
-[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide | 
-[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide | 
+[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide | Ruby, Rails, JavaScript, AngularJS, PostgreSQL, Redis
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide | Leaflet,Wax,jQuery,Backbone,Underscore,CodeMirror,Mustache,Redis,Mapnik    ,CartoCSS,PostGIS,Nginx,Node,Varnish,Unicorn,RoR,Chef,Munin,Nagios,Monit
 [CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/  | |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe | 
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US | 
