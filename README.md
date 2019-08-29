@@ -109,56 +109,56 @@ Name | Website | Region | Technologies
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide | Ethereum, Solidity, (IPFS, Scala, Java, Go, Python, <br> React, Elasticsearch, Rust...) <br> Slack, Zoom, and Quip
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA | 
 [Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ | | 
-[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide | 
-[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide | 
+[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide | Node.JS MongoDB
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide | AWS,Docker,DynamoDB,JavaScript,<br>jQuery,MongoDB,PHP,RactiveJS,<br>SimpleDB,Vagrant,Webpack
 [Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA | 
 [CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ | | 
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast | 
 [Crossover](/company-profiles/crossover.md) ⚠️️ | https://www.crossover.com | Worldwide | 
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide | 
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA | 
-[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide | 
+[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide | Ember.js,golang,Javascript,<br>Rails,Git,CSS,HTML
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe | 
-[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide | 
-[Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide | 
+[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide | node,serverless,aws <br>lambda & dynamodb,angular,<br>material design
+[Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide | Python,Django,Git
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide | 
 [DataStax](/company-profiles/datastax.md) ⚠️️ | http://www.datastax.com/ | | 
 [Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ | | 
 [DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com | | 
 [Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com | | 
-[Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide | 
+[Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide | JavaScript,Python,PHP,<br>Java,.NET,Ruby,Mobile apps,<br>Microservices,Agile methodology,<br>Engineering management
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas | 
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide | 
-[Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide | 
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide | 
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide | Go, K8s, Docker, Mesos, <br>Terraform, Vault, Consul, <br>Grafana, Perl, Ruby, Kafka, <br>Consul, Prometheus, MemSQL,<br> MySQL, Looker, Rsyslog, <br>Open vSwitch, KVM, Git
+[Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide | Ember.js  Ruby on Rails <br> Postgres and Redis, Docker 
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide | Ruby or Go, Erlang, Chef
 [Docker](/company-profiles/docker.md) ⚠️️ | https://www.docker.com | | 
-[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide | 
-[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide | 
-[Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide | 
-[DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide | 
+[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide | Android, iOS/OS X, Windows, <br>Python, Django, Ruby on Rails, <br>Javascript, HTML, CSS,<br> CoffeeScript, React, MYSQL,<br> Redis, GIT, Wordpress, C#, C++
+[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide | JavaScript, TypeScript, Cordova, <br>iOS, Android, Angular2, Python
+[Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide |  Backend: Drupal, Go, NodeJS.<br> Frontend: React, Angular, VueJS.<br> DevOps: k8s, docker
+[DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide | Perl, HTML, JavaScript, <br>CSS, Kotlin, Swift
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada | 
-[Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide | 
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide | 
-[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide | 
+[Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide | Java, PHP, Ruby, <br>JavaScript, Go,
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide | Java: Elasticsearch<br> HTML, Javascript, CSS: Kibana<br> Ruby: Logstash<br> APIs: Perl, Python, Ruby, Golang 
+[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide | Endpoint: Delphi, C, C++, Assembly<br> Backend: DotNet Core, MongoDB, <br>PHP, Python, Angular<br> Operations: Kubernetes, Docker, <br>Nginx, Windows Server, Linux<br> Productivity: Git, GitLab, Redmine, <br>Slack, Office
 [EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ | | 
 [Enjoei](/company-profiles/enjoei.md) ⚠️️ | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
-[Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
+[Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide | PHP, Postgres, Solr, Ruby, <br>Hadoop, Go, JavaScript,<br> CSS, Chef
 [EVELO](/company-profiles/evelo.md) ⚠️️ | https://evelo.workable.com |
-[Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
-[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide | Ruby on Rails, Ruby, Erlang, <br>Scala, Go, Postgresql, Chef, <br>React, Redux, Node.js
+[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide | JavaScript, Python, HTML, CSS,<br> XUL, Java (Android), C++, Objective-C
 [Fastly](/company-profiles/fastly.md) ⚠️️ | https://www.fastly.com/ |
-[Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
+[Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide | Scala, JavaScript
 [Featurist](/company-profiles/featurist.md) | http://www.featurist.co.uk/ |
-[Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
+[Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide | Ruby on Rails, JavaScript, jquery, <br>Webpack, Babel, Mousetrap,<br> Google Cloud DNS, Postmark, <br>Varnish, nginx, Amazon S3 CDN,
 [Filament Group](/company-profiles/filament-group.md) ⚠️️ | https://www.filamentgroup.com/ |
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fire Engine Red](/company-profiles/fire-engine-red.md) ⚠️️ | http://fire-engine-red.com/ |
 [Focusnetworks](/company-profiles/focusnetworks.md) ⚠️️ | http://focusnetworks.com.br | Brazil
-[Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
+[Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide | c#,jquery,python,javascript,<br>sql-server,elasticsearch,<br>redis,mercurial,git,f#,node.js,<br>mongodb,websocket,coffeescript,<br>html5,express.js,haproxy,<br>.net,asp.net-mvc,docker,golang,ruby
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ |
 [fournova](/company-profiles/fournova.md) ⚠️️ | https://www.fournova.com/ |
@@ -168,33 +168,33 @@ Name | Website | Region | Technologies
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
-[Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
+[Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide | Ember.js, node.js, Grunt,
 [Giant Swarm](/company-profiles/giant-swarm.md) | https://giantswarm.io | Europe
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 [Gitbook](/company-profiles/gitbook.md) ⚠️️ | https://www.gitbook.com/ |
-[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide | 
+[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide | Ruby on Rails,Go,MySQL,<br>CoffeeScript,Sass,Git
 [GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide | 
-[GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide | 
+[GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide | Python, Django, JavaScript,<br> Angular, D3.js
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide | 
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
 [Graylog](/company-profiles/graylog.md) ⚠️️ | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
-[Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide | 
-[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide | 
-[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide | 
+[Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide | PHP 7 & ReactPHP,Javascript & React & <br>Node.js,Heroku & Docker,Redis, Neo4j
+[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide | Java 8 (Spring + Dropwizard),<br>Cassandra,AWS,Android,iOS<br> (Swift),Javascript (Angular2, react),Git
+[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide | Terraform, Go, Docker, Packer,<br> and AWS.
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Haiku Learning](/company-profiles/haiku-learning.md) ⚠️️ | http://www.haikulearning.com/ |
 [Hanno](/company-profiles/hanno.md) ⚠️️ | https://hanno.co/ | Worldwide | 
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
-[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide | 
+[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide | Ruby, Rails, Sinatra, Javascript, <br>Angular.js, Backbone.js, <br>Git, Github, Slack, Trello
 [Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
-[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide | 
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide | Docker, Chef, Ansible, Ruby,<br> AWS & Rackspace Cloud, MySQL,<br> Nginx, Graphite, StatsD, <br>Sensu, Git, Redis
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | US, CA, UK, DE, FR, NL, AU, ...
-[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide | 
+[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide | Ruby, Clojure, Elixir, JavaScript,<br> HTML5, CSS3, Postgres, Heroku,<br> AWS, GCE, Docker, Kubernetes
 [Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
-[Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide | 
+[Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide | TypeScript, Backbone, Marionette,<br> Node.js, Redis, and PostgreSQL.<br> CoffeeScript, Scala, ZooKeeper, Kafka, <br>Akka, and CitusDB
 [Help Scout](/company-profiles/help-scout.md) ⚠️️ | https://www.helpscout.net/ |
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
