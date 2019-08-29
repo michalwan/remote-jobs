@@ -91,22 +91,22 @@ Name | Website | Region | Technologies
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil | 
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | | 
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US | 
-[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide | 
-[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide | 
-[Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide | 
-[Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide | 
-[Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide | 
-[CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide | 
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide | Ruby,Python,Javascript
+[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide | React,Javascript,CSS,Pa11y,DKAN,<br>Drupal,Ilias,Moodle,MatterMost,Symfony,<br>Docker,Kubernetes,Helm,Ansible,<br>MariaDB,Solr,Jenkins,GitLab,OpenSCAP,Gemini
+[Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide | JS, node, Python, RoR, PHP, Java,
+[Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide | Python / Flask, JavaScript / React, <br>HTML5 / CSS, MongoDB, Elasticsearch, <br>Postgres, AWS, Puppet, Docker, Kubernetes
+[Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide | AngularJS, Node.js, Android (Java), iOS (Objective-c, Swift), <br>HTML5, CSS, JavaScript, PHP, Ruby, React, <br>Wordpress, C#, Sails.js, Python, .NET, MongoDB, Postgres, SQL
+[CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide | JavaScript, jQuery, React, Ruby on Rails, CloudFlare, AWS
 [Codeship](/company-profiles/codeship.md) ⚠️️ | https://codeship.com/ | | 
-[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide | 
+[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide | PHP, Node.js, MariaDB, Android, IOS
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA | 
-[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide | 
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide | RoR,HTML, CSS, SCSS, Javascript, <br>jQuery,Postgress,Git 
 [Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ | | 
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France, Europe | 
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ | | 
-[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide |  | 
+[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide | PHP, Python, Drupal, CiviCRM, Odoo, Symfony <br>  AngularJS, React, Less, Sass <br> AWS, Ansible, Packer, Jenkins <br> Github and Bitbucket 
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ | | 
-[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide | 
+[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide | Ethereum, Solidity, (IPFS, Scala, Java, Go, Python, <br> React, Elasticsearch, Rust...) <br> Slack, Zoom, and Quip
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA | 
 [Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ | | 
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide | 
