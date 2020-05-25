@@ -13,7 +13,7 @@ each individual company profile for details._
 
 Name | Website | Region | Technologies
 ------------ | ------- | ------- | -------
-[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | Node.js, React, WebRTC, Pug, <br> Stylus 
+[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide | Node.js, React, WebRTC, Pug, <br> Stylus ...
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress,PHP,Sass,Git,<br>Vagrant,Nginx,Memcache
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | 
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | iOS, React, Knockout, Rails, <br>Perl, HTML, Sql, Ruby, JQuery
